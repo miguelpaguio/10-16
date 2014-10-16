@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# 10-16-2
+#
+
+projectname: 10-16-2
+vendorid: com.mycompany
+mainmodule: com.mycompany.10162
